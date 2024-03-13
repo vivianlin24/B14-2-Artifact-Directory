@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Developing Political Personas Through Generative Language Modeling
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The modern world divides people based on political ideals and beliefs, so this model of learning the different personas of different people’s opinions answers political questions that help us efficiently gain a better understanding of people’s responses. This addresses the limitation of surveys and cold-calling. In past approaches, others have not been able to solve the problem at hand in order to help political candidates locate their target audience and forecast the success of their policies. We are specifically evaluating people’s opinions on presidential candidates, so by taking the sentiments of people’s opinions in Twitter data and using LangChain agents to create "personas," we believe this will take more factors into account that have previously been neglected as well as provide benefits that have not been focused on before. A LangChain agent will use our language model to interact with other tools to interact with the GPT-3.5 Turbo-Instruct API developed by OpenAI and also to answer these questions regarding political topics. As a result of this model, we are expecting fitting responses to questions regarding political ideals, current political issues, and presidential candidates.
